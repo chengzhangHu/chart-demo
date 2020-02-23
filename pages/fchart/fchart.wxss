@@ -1,0 +1,5 @@
+/* pages/fchart/fchart.wxss */
+.f2-chart {
+  width: 100%;
+  height: 600rpx;
+}
